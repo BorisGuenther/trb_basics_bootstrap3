@@ -1,0 +1,11 @@
+#Setup wraps
+tt_content.stdWrap > 
+tt_content.stdWrap {
+	dataWrap = <div id="c{field:uid}" class="{field:tx_trb_basics_bootstrap3_cols_xs} {field:tx_trb_basics_bootstrap3_cols_sm} {field:tx_trb_basics_bootstrap3_cols_md} {field:tx_trb_basics_bootstrap3_cols_lg}">|</div>
+	dataWrap.if {
+		isInList.field = CType
+		value = div
+		negate = 1
+	}
+}
+lib.stdheader.stdWrap >

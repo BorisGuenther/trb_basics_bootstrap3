@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-10-01T16:25:23Z" product-name="trb_basics_bootstrap3">
+		<header/>
+		<body>
+			<!-- Columns -->
+			<trans-unit id="tt_content.column.tx_trb_basics_bootstrap3_cols_xs"><source>Mobile &lt;768px</source></trans-unit>
+			<trans-unit id="tt_content.column.tx_trb_basics_bootstrap3_cols_sm"><source>Small &lt;992px</source></trans-unit>
+			<trans-unit id="tt_content.column.tx_trb_basics_bootstrap3_cols_md"><source>Medium &lt;1200px</source></trans-unit>
+			<trans-unit id="tt_content.column.tx_trb_basics_bootstrap3_cols_lg"><source>Large &gt;1200px</source></trans-unit>
+			
+			<!-- Values -->
+			<trans-unit id="tt_content.value.cols.0"><source>Hidden (0 columns)</source></trans-unit>
+			<trans-unit id="tt_content.value.cols.3"><source>1/4 (3 columns)</source></trans-unit>
+			<trans-unit id="tt_content.value.cols.4"><source>1/3 (4 columns)</source></trans-unit>
+			<trans-unit id="tt_content.value.cols.6"><source>1/2 (6 columns)</source></trans-unit>
+			<trans-unit id="tt_content.value.cols.8"><source>2/3 (8 columns)</source></trans-unit>
+			<trans-unit id="tt_content.value.cols.9"><source>3/4 (9 columns)</source></trans-unit>
+			<trans-unit id="tt_content.value.cols.12"><source>1 (12 columns)</source></trans-unit>
+			
+			<!-- Palettes -->
+			<trans-unit id="tt_content.palette.trb_basics_columns"><source>Columns</source></trans-unit>
+		</body>
+	</file>
+</xliff>
